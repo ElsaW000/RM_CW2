@@ -62,8 +62,8 @@ This project presents a multivariate visualization analysis of environmental imp
 
 ## 🔗 URLs
 
-- **User-Interaction HTML file**: See files in the `html` folder
-- **Source code**: See `.py` or `.ipynb` file in this repo
+- **User-Interaction HTML file**: See files in the `html` zip file
+- **Source code**: See `.ipynb` file in this repo
 
 ---
 
